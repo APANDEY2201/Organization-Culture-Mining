@@ -1,0 +1,47 @@
+overall,de:vielfalt,en:contrast,en:difference,en:disagreement,en:discrepancy,en:disparity,en:dissimilarity,en:dissimilitude,en:distance,en:distinction,en:diverseness,en:otherness,en:unlikeness,de:abwechslung,de:differenziertheit,de:diversität,de:mannigfaltigkeit,de:vielfalt,de:vielfältigkeit,de:vielzahl,de:pluralität,de:varietät,de:vielfachheit,de:multiplizität,de:verschiedenheit
+overall,de:inklusion,en:inclusion,de:einfügung,de:einschub,de:einrechnung,de:einsprengling,de:einbezug,de:einschluss,de:einsprengun,de:zugehörigkeit,de:zurechnung
+overall,de:integration,en:integration,en:desegregation,en:consolidation,en:blending,en:coalescence,en:coalition,en:concretion,en:homogenization,en:mergence,en:merging,en:mingling,en:unification,en:union,de:aufnahme,de:einbeziehen,de:einbeziehung,de:eingliederung,de:verzahnung,de:zusammenführung,de:einbindung,de:integrierung,de:verflechtung
+overall,de:gleichberechtigung,en:equal rights,en:basic rights,en:equal opportunity,en:prejudiced,de:chancengleichheit,de:gleichheit,de:gleichordnung,de:gleichsetzung,de:gleichstellung,de:gleichberechtigung,de:gleichwertigkeit,de:ebenbürtigkeit,de:parität
+overall,de:gleichstellung,en:equality,en:equivalence,en:par,en:parity,en:sameness
+overall,de:diversität,en:diversity,en:assortment,en:heterogeneity,en:manifoldness,en:miscellaneousness,en:multifariousness,en:multiplicity,en:variety,en:variousness,de:verschiedenartigkeit,de:ungleichheit
+overall,de:stereotyp,en:stereotype,de:vorurteil
+overall,de:minderheit,en:minority,en:outvoted,en:outnumbered,en:faction,de:minderheit,de:minderzahl,de:minorität,de:unterzahl,de:minderjährigkeit
+overall,de:gleichstell,en:equality
+overall,de:pay gap,en:pay gap,de:lohngefälle
+overall,de:diskriminieren,en:discrimination,en:favouritism,en:secernment,en:prejudice,en:bias,en:bigotry,en:intolerance,en:narrow-mindedness,en:unfairness,en:inequity,en:one-sidedness,en:partisanship,en:sexism,en:chauvinism,en:misogyny,en:racism,en:racialism,en:anti-semitism,en:heterosexism,en:ageism,en:classism,en:casteism,en:apartheid,de:benachteiligen,de:ungleich behandeln,de:unterscheidung,de:urteilsvermögen,de:urteilskraft,de:chauvinismus
+overall,de:schätzen,en:appreciate,en:value,en:esteem,en:respect,en:admire,en:favor,de:abschätzen,de:erkennen,de:würdigen,de:begrüßen,de:anerkennen,de:ermessen,de:wertschätzen,de:ansehen,de:betrachten,de:hoch schätzen
+overall,de:diversen,en:various
+overall,de:unterschied,en:difference,en:otherness,en:unlikeness,en:deviation,en:divergence,en:dispute,en:difference of opinion,en:conflict,de:abweichung,de:diskrepanz,de:misshelligkeit,de:missverhältnis,de:nichtübereinstimmen,de:nichtübereinstimmung,de:uneinigkeit,de:ungereimtheit,de:unstimmigkeit,de:widerspruch,de:widersprüchlichkeit,de:streitigkeit,de:nichtübereinstimmung,de:differenz,de:verschiedenheit,de:disparität,de:ungleichheit,de:missverhältnis
+overall,de:elternzeit,en:parental leave,en:maternity leave,en:childcare leave,en:paternal leave,de:karenz,de:babypause,de:elternurlaub,de:erziehungsurlaub
+overall,de:situation,en:situation,en:state of affairs,en:position,en:office,de:umgebung
+gender,de:frauenquote,en:women quota
+gender,de:weiblich,en:female,en:girl,en:unmanly,en:ladylike,en:ultrafeminine,en:distaff,de:feminin,de:fraulich,de:leiblich,de:weibisch,de:weidlich,de:weißlich,de:werblich
+gender,de:männlich,en:male,en:manful,en:manlike,en:manly,en:virile,en:mannish,de:maskulin,de:viril,de:mannhaft,de:stumpf,de:männisch
+gender,de:mann,en:man,en:adult,en:gentleman,en:dude,en:guy,en:fellow,de:bursche,de:erwachsene,de:männliche person,de:herr,de:männlicher,de:mannsperson,de:patron,de:männlichen geschlechts,de:dude,de:kerl
+gender,de:frau,en:woman,en:adult female,en:female,en:wife,en:lady,en:madam,de:ehefrau,de:ehegattin,de:frisch vermählte,de:gattin,de:ehegemahlin,de:eheweib,de:gebieterin,de:gemahlin,de:bessere hälfte,de:weib,de:dame,de:weibchen,de:mädchen,de:lady,de:mamsell,de:madam
+gender,de:geschlecht,en:gender,en:sex,en:race,en:lineage
+gender,de:pflege,en:care,en:attention,en:concern,en:guardianship,de:erhaltung,de:unterhalt,de:unterhaltung
+gender,de:familie,en:family,en:tribe,de:verwandtschaft,de:angehörige,de:anhang,de:familie,de:familienclan,de:familienverband,de:klan,de:linie,de:sippe,de:stamm
+age,de:altersteilzeit,en:retirement,de:pensionierung,de:ruhestand,de:zurückgezogenheit,de:verrenkung
+age,de:alt,en:old,en:former,en:elderly,en:senior,en:venerable,en:senescent,en:senile,en:experienced,en:superannuated,de:bejahrt,de:betagt,de:uralt,de:greisenhaft,de:vergreist,de:traditionell,de:überliefert,de:alt,de:volkstümlich,de:angestammt
+age,de:jung,en:young,en:juvenile,en:youthful,en:adolescent,en:immature,en:teenage,en:child,en:baby,en:kid,de:unerfahren,de:kind,de:frisch,de:unbedarft,de:unbewandert,de:unbeschlagen
+age,de:jünger,en:younger,de:gefolgsmann,de:schüler
+age,de:generation,en:generation,de:altersgruppe,de:jahrgang
+age,de:lager,en:stock,en:ancestry,en:parentage,en:banal,en:old hat,en:timeworn,en:tired,de:vorrat,de:bestand,de:lagerbestand,de:herkunft
+cultural background,de:migrationshintergrund,en:migration,en:emigration,en:relocation,en:resettlement,de:wanderung,de:abwanderung,de:auswanderung,de:völkerwanderung
+cultural background,de:sprache,en:language,en:linguistic,en:speech,en:tongue,en:lingo,en:dialect,de:kommunikation,de:verständigungsmittel,de:muttersprache,de:rede,de:ansprache,de:sprechweise,de:sprechkunde,de:zunge,de:kauderwelsch,de:jargon
+cultural background,de:religion,en:religion,en:faith,en:belief,en:credo,en:creed,en:cult,en:persuasion,de:gottesglauben,de:religion,de:theismus,de:religionszugehörigkeit,de:kult
+cultural background,de:auslän,en:foreign,en:alien,en:extraneous,en:foreign,de:ausländer,de:fremde,de:außerirdische
+cultural background,de:migration,en:migration
+cultural background,de:herkunft,en:origin,en:root,en:family,en:descent,en:lineage,en:line of descent,en:blood line,en:pedigree,en:ancestry,en:parentage,en:provenance,en:background,en:birth,en:native,de:abstammung,de:elternhaus,de:geburt,de:herkommen,de:provenienz,de:ursprung,de:wurzeln,de:ahnenreihe,de:verhältnisse,de:entstehung,de:abstammung,de:quelle,de:anfang,de:familie,de:stammbaum,de:ahnentafel,de:hintergrund
+cultural background,de:ethnie,en:ethnicity,en:nation,en:race,en:breed,de:menschentypus,de:rasse,de:typus,de:sorte,de:zucht
+cultural background,de:kultur,en:culture,en:civilisation,en:refinement,de:zivilisation
+sexual orientation,de:lgbt+,en:lgbt+
+sexual orientation,de:lgbt,en:lgbt
+sexual orientation,de:lesbisch,en:lesbian,en:tribade,en:gay woman,en:sapphic,en:femme,de:sapphisch
+sexual orientation,de:schwul,en:gay,en:homosexual,en:homophile,en:homo,en:queer,de:gay,de:homosexuell,de:homo
+sexual orientation,de:sexuell,en:sexual,en:intimate,de:geschlechtlich,de:sexual,de:geschlecht
+sexual orientation,de:bisexuell,en:bisexual,en:hermaphrodite,de:ambisexuell,de:doppelgeschlechtlich,de:doppelgeschlechtig,de:zwittrig
+sexual orientation,de:transgender,en:transgender,en:transsexual,en:cross sexual,de:transsexuelle
+handicap,de:barrierefrei,en:handicapped accessible,en:disability,en:disabled,en:disablement,en:abnormality,en:impairment,de:behindertengerecht,de:rollstuhlgängig,de:rollstuhlgerecht,de:rollstuhltauglich,de:behinderung,de:handikap,de:benachteiligen,de:handikapen
+handicap,de:behindert,en:with special needs,de:behindert,de:eingeschränkt,de:gehandicapt,de:gehandikapt,de:arbeitsunfähig
